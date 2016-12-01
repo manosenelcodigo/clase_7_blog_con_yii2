@@ -33,9 +33,9 @@
                     ['label' => 'Noticias', 'icon' => 'fa fa-table', 'url' => ['/noticia/index']],
                     ['label' => 'Categorías', 'icon' => 'fa fa-table', 'url' => ['/categoria/index']],
                     [
-                        'label' => 'Comments',
+                        'label' => 'Comentarios',
                         'icon' => 'fa fa-table', 
-                        'url' => ['/comment/index']
+                        'url' => ['/comentario/index']
                     ],
                     ['label' => 'Cursos', 'icon' => 'fa fa-table', 'url' => ['/curso/index']],
                     ['label' => 'Transmisiones', 'icon' => 'fa fa-table', 'url' => ['/transmision/index']],

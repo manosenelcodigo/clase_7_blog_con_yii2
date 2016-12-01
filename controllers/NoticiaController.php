@@ -14,6 +14,7 @@ use yii\filters\VerbFilter;
  */
 class NoticiaController extends Controller
 {
+    public $layout = "adminLTE/main";
     /**
      * @inheritdoc
      */
